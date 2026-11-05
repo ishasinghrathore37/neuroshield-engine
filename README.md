@@ -313,8 +313,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👤 Author
 
 **Isha Singh Rathore**
-- LinkedIn: [linkedin.com/in/yourname](#)
-- GitHub: [@yourusername](#)
+- LinkedIn: [linkedin.com/in/ishasinghrathore](#)
+- GitHub: [@ishasinghrathore37](#)
 - Email: ishasinghrathore514@gmail.com
 
 ---
